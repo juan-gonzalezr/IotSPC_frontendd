@@ -1,0 +1,68 @@
+#contenedor{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    font-size:1em;
+    font-weight:bold;
+     /* display:flex;    */
+    min-height:100vh;
+    color:#020024
+    
+    
+
+}
+#Sec1{
+
+
+
+}
+#Sec2{
+
+
+
+}
+#Sec3{
+
+
+}
+#Sec1,#Sec2,#Sec3,footer{
+    font-size:1em;
+    font-weight:bold;
+    display:flex;
+    flex-grow: 1;
+    flex-basis: 0;
+    align-items: center;
+    
+    
+    
+}
+#icons{
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    display: flex;
+   
+}
+#mapa{
+    width:600px;
+    height:500px;
+    align-items: center;
+    text-align: center;
+    margin-left: 30em;
+    border-radius: 40px;
+    border:solid;
+    border-color:#2D3142
+    
+}
+#tmap{
+    margin-left: 17em;
+    text-align: center;
+    display: flex
+}
+footer{
+    align-items: center;
+}
+#bim{
+    width:60px;
+    height:50px;
+}
